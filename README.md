@@ -1,6 +1,6 @@
 ## Hi there! I'm Grace 👋
 [![Github](https://img.shields.io/badge/-GraceMattern-000?style=flat&logo=Github&logoColor=white)](https://github.com/GraceMattern)
-[![Linkedin Badge](https://img.shields.io/badge/-GraceMattern-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gracemattern/)](https://www.linkedin.com/in/gracemattern/)
+[![Linkedin Badge](https://img.shields.io/badge/-GraceMattern-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gracemattern/)](https://www.linkedin.com/in/grace-mattern/)
 [![Gmail](https://img.shields.io/badge/-GraceFMattern-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gracefmattern@gmail.com)
 [![Outlook](https://img.shields.io/badge/-gmattern-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:gmattern@stevens.edu)
 

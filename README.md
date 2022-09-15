@@ -7,7 +7,7 @@
 ### About Me
 - Studying Computer Science and Mathematics at Stevens Institute of Technology
 - Interested in Full-Stack Web Development
-- Seeking Summer 2022 Internship
+- Seeking a Full-Time Job
 
 ### Tools and Technologies
 
